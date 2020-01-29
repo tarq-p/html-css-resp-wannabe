@@ -19,7 +19,6 @@
     }
 }
 
-
 #lezioni .row img {
   /* per centrare orizzontalmente */
   display: block;
@@ -47,7 +46,6 @@
     }
 }
 
-
 #steps{
   text-align: center;
 }
@@ -74,8 +72,6 @@
     }
 }
 
-
-
 #why .row img {
   background-color:#428bca;
   border-radius:50%;
@@ -87,13 +83,6 @@
 .container.grey{
   background-color: #f9f9f9;
 }
-
-@media screen and (max-width: 420px) {
-    .container.grey {
-        background-color: grey;
-    }
-}
-
 
 img{
   height: 200px;
